@@ -87,6 +87,9 @@ Goals per decade comparison
 Top attacking nations (bar charts)
 Tournament entertainment ranking
 Matchup scoring analysis
+
+<img width="1595" height="776" alt="image" src="https://github.com/user-attachments/assets/ad88bf8a-7af8-4270-a675-1425be04bfb4" />
+
 # Tech Stack
 Python 🐍
 Pandas
