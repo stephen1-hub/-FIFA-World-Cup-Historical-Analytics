@@ -16,7 +16,7 @@ The goal is to go beyond match results and understand the story football data te
 
 # Dataset
 
-Source: Cleaned FIFA World Cup historical match data
+Source: Kaggle Cleaned FIFA World Cup historical match data
 
 Columns:
 home – Home team
